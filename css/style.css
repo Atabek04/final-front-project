@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ebe3d5;
+}
+
+.navbar {
+  background-color: #b0a695 !important;
+  font-size: 20px;
+  padding-left: 30px;
+}
+
+.card_items {
+  margin-top: 50px;
+  margin-left: 180px !important;
+}
+
+.card {
+  margin: 10px !important;
+  width: 400px !important;
+  background-color: #f3eeea !important;
+  padding: 20px;
+}
+@import url("https://fonts.googleapis.com/css2?family=Agbalumo&display=swap");
+.card-header {
+  text-align: center;
+  font-family: "Agbalumo", monospace;
+  font-size: 40px;
+  font-style: oblique;
+}
+
+.head-of-cards {
+  font-family: "Agbalumo", monospace;
+  font-size: 30px;
+  padding: 40px;
+  background-color: #d6c7ae;
+  text-align: center;
+}
+
+.enroll_course {
+  align-items: center;
+  margin: auto;
+}
+
+.btn {
+  width: 100px !important;
+}
+
+.contact-form {
+  width: 70% !important;
+  margin: auto;
+}
