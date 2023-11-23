@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  #resourceList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resource-item {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .resource-item:hover {
+    background-color: #f5f5f5;
+  }
+  
+  #resourceDetails {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  #searchInput {
+    width: 400px;
+    height: 30px;
+    margin: auto;
+  }
+
+  .text-info {
+    margin-right: 30px !important;
+  }
+
+
+  main {
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+  }
+
+  .space {
+    margin-bottom: 300px;
+  }
+
